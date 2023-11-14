@@ -1,0 +1,4 @@
+hora: 1
+minuto: 2
+segundo: 24
+senioridade: Júnior

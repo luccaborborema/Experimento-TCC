@@ -1,0 +1,4 @@
+hora: 2
+minuto: 22
+segundo: 13
+senioridade: Pleno

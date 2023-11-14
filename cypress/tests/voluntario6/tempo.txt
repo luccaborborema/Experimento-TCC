@@ -1,0 +1,8 @@
+hora:0
+minuto:26
+segundo:11
+senioridade:Pleno
+Primeiro contato ( )
+Iniciante ( )
+Intermediário (X)
+Experiente ( )

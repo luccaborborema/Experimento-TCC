@@ -1,0 +1,8 @@
+hora:0
+minuto:57
+segundo:57
+senioridade: junior
+Primeiro contato (X)
+Iniciante ( )
+Intermediário ( )
+Experiente ( )

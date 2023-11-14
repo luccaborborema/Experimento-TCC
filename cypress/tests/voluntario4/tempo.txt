@@ -1,0 +1,8 @@
+hora: 0
+minuto: 54
+segundo: 32
+senioridade: Júnior
+Primeiro contato ( )
+Iniciante (X)
+Intermediário ( )
+Experiente ( )
